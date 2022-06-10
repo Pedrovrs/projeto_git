@@ -467,9 +467,16 @@ section.description p{
         text-align: center;
     }
 
-    section.description h6{
+    section.description h5{
         margin: 1px 0 0 10px;
         color: #f0417e;
+        font-size: 12px; 
+        text-align: center;
+    }
+
+    section.description h6{
+        margin: 1px 0 0 10px;
+        color: #6e6d74;
         font-size: 12px; 
         text-align: center;
     }
