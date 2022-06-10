@@ -442,12 +442,11 @@ section.description p{
     }
 
     section.description{
+        padding-top: 200px;
         position: relative;
-        padding-top: 0px;
     }
 
     section.description h2{
-        padding-top: 250px;
         color: #212529;
         font-size: 24px;
         text-align: center;
